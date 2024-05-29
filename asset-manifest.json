@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dece7af.css",
+    "main.js": "/static/js/main.ba5aa7c8.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/trees-splash-page.jpg": "/static/media/trees-splash-page.fbf80c2cbe0d4b879bcd.jpg",
+    "static/media/herosplash1.jpg": "/static/media/herosplash1.2b9f41df596dd2bb1ff9.jpg",
+    "static/media/HeartDriver-ED6.jpg": "/static/media/HeartDriver-ED6.c151a2a5230fb2b10d8d.jpg",
+    "static/media/EMF.jpg": "/static/media/EMF.3eb15d26c0d603bbcd4b.jpg",
+    "static/media/Energy.jpg": "/static/media/Energy.14a032783616c639f978.jpg",
+    "static/media/Chill.jpg": "/static/media/Chill.fe3771fb3c67fa526751.jpg",
+    "static/media/Female.jpg": "/static/media/Female.92bfc8d6750880fd6d4a.jpg",
+    "static/media/HeartImprinter-ED2.jpg": "/static/media/HeartImprinter-ED2.b51690f599a6faca5881.jpg",
+    "static/media/ESR-02.jpg": "/static/media/ESR-02.318b7f2da99f1b81f275.jpg",
+    "static/media/ESR-01.jpg": "/static/media/ESR-01.7bd9f5d08f7a5a67815a.jpg",
+    "static/media/Day.jpg": "/static/media/Day.4dc9f886da6c0f45ae61.jpg",
+    "static/media/ColdFluImmunity.jpg": "/static/media/ColdFluImmunity.59bd209c06e5381329dc.jpg",
+    "static/media/FatMetabolism.jpg": "/static/media/FatMetabolism.6ffe19afe41d3be4e6ef.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.2dece7af.css.map": "/static/css/main.2dece7af.css.map",
+    "main.ba5aa7c8.js.map": "/static/js/main.ba5aa7c8.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dece7af.css",
+    "static/js/main.ba5aa7c8.js"
+  ]
+}
